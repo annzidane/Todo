@@ -1,5 +1,4 @@
-Pertama npm install
-kedua php artisan migrate
-ketiga tambahkan user secara manual di phpmyadmin
-lalu php artisan serve untuk menjalankan program
 <p>Pertama npm install</p>
+<p>kedua php artisan migrate</p>
+<p>ketiga tambahkan user secara manual di phpmyadmin</p>
+<P>lalu php artisan serve untuk menjalankan program</P>
